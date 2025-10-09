@@ -71,9 +71,9 @@ const TimeLineWidget2 = () => {
               <span className={styles.highlight__year}>
                 <span>1992</span>
               </span>
-              <h6 className={styles.highlightsmallTitle}>Lush</h6>
+              <h6 className={styles.highlightsmallTitle}>Restaurant Recommendations</h6>
               <h4 className={styles.highlightsmallpara}>
-              Lush, sun-drenched, and impossibly serene, Mauritius makes for the perfect minimoon for couples.
+            “The Django at the Roxy Hotel in Tribeca was magical. We went on a Tuesday with no expectations. Turned out, six jazz Hall-of-Famers were performing that night. I walked out buzzing.”
               </h4>
               <div className={styles.highlight__text}>
                 <p className={styles.hightlight__textpara}>
@@ -87,7 +87,7 @@ const TimeLineWidget2 = () => {
                   <div className={styles.image__inner}>
                     <img
                       className={`${styles.lazyloadd} ${styles.image__img}`}
-                      src="https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/48684211.webp?k=eb364e0e760e5b043c05b8b00e4dfe21997195d1ba8d8e305cabac7e95334f69&o=v"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-08-06T07%253A04%253A50.180Z-Inline5.jpg&w=3840&q=75"
                     />
                   </div>
                 </div>
@@ -97,9 +97,9 @@ const TimeLineWidget2 = () => {
               <span className={styles.highlight__year}>
                 <span>2005</span>
               </span>
-              <h6 className={styles.highlightsmallTitle}>Anahita</h6>
+              <h6 className={styles.highlightsmallTitle}>Room for Serendipity</h6>
               <h4 className={styles.highlightsmallpara}>
-                Our days alternated between total relaxation, like overwater spa treatments with fresh aloe from the garden, 
+               On this trip, new culinary discoveries included Mignon, “It tastes like home. Like Delhi, actually. And after a week of sushi and jazz, sometimes that’s exactly what I need.”
               </h4>
               <div className={styles.highlight__text}>
                 <p>
@@ -113,7 +113,7 @@ const TimeLineWidget2 = () => {
                   <div className={styles.image__inner}>
                     <img
                       className={`${styles.lazyloadd} ${styles.image__img}`}
-                      src="https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/48684211.webp?k=eb364e0e760e5b043c05b8b00e4dfe21997195d1ba8d8e305cabac7e95334f69&o=v"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-08-06T07%253A04%253A50.180Z-Inline5.jpg&w=3840&q=75"
                     />
                   </div>
                 </div>
@@ -121,7 +121,7 @@ const TimeLineWidget2 = () => {
                   <div className={styles.image__inner}>
                     <img
                       className={`${styles.lazyloadd} ${styles.image__img}`}
-                      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4DdodyLI4anA7zkyys7_FVkcnlMT7TDDj7sxTgZSTufAiRUm5vL_wrLU9plCeZ31Pjr4&usqp=CAU"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-08-06T07%253A04%253A50.170Z-Inline1.jpg&w=3840&q=75"
                     />
                   </div>
                 </div>
@@ -131,9 +131,9 @@ const TimeLineWidget2 = () => {
               <span className={styles.highlight__year}>
                 <span>2007</span>
               </span>
-              <h6 className={styles.highlightsmallTitle}>Amari</h6>
+              <h6 className={styles.highlightsmallTitle}>Where Food Leads, She Follows</h6>
               <h4 className={styles.highlightsmallpara}>
-              Mauritius’ first craft brewery, where you can expect bold, ever-changing beers and a rustic menu in a casual setting at Bagatelle.
+              At the heart of her New York City experience is her brother, who lives in Chelsea.“I always get the stir-fried chicken with bok choy. You’d miss the place if you walked past it. But it’s our thing.”
               </h4>
               <div className={styles.highlight__text}>
                 <p className={styles.hightlight__textpara}>
@@ -147,7 +147,7 @@ const TimeLineWidget2 = () => {
                   <div className={styles.image__inner}>
                     <img
                       className={`${styles.lazyloadd} ${styles.image__img}`}
-                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/97/fb/d4/shore-inn-at-ocean-grove.jpg?w=400&h=300&s=1"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-08-06T07%253A04%253A50.178Z-Inline4.jpg&w=3840&q=75"
                     />
                   </div>
                 </div>
@@ -157,10 +157,9 @@ const TimeLineWidget2 = () => {
               <span className={styles.highlight__year}>
                 <span>2008</span>
               </span>
-              <h6 className={styles.highlightsmallTitle}>Sport</h6>
+              <h6 className={styles.highlightsmallTitle}>The Ritual</h6>
               <h4 className={styles.highlightsmallpara}>
-                Op de Olympische Spelen van Beijing in 2008 maakte Ranomi haar
-                debuut op het grootste toneel.
+               Her emotional connection to the city runs deep. It is a blend of nostalgia, family, and personal renewal. “The cultural contrasts — from Brooklyn to Manhattan to Harlem — feel like different planets.
               </h4>
               <div className={styles.highlight__text}>
                 <p>
@@ -178,7 +177,7 @@ const TimeLineWidget2 = () => {
                   <div className={styles.image__inner}>
                     <img
                       className={`${styles.lazyloadd} ${styles.image__img}`}
-                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/64/87/29/topside-inn.jpg?w=900&h=500&s=1"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-08-06T07%253A04%253A50.174Z-Inline2.jpg&w=3840&q=75"
                     />
                   </div>
                 </div>
