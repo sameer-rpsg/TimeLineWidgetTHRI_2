@@ -147,7 +147,7 @@ const TimeLineWidget2 = () => {
                   <div className={styles.image__inner}>
                     <img
                       className={`${styles.lazyloadd} ${styles.image__img}`}
-                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-08-06T07%253A04%253A50.178Z-Inline4.jpg&w=3840&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-08-06T07%253A04%253A50.181Z-Lead.jpg&w=1920&q=75"
                     />
                   </div>
                 </div>
